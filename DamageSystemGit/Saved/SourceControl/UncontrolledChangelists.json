@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/BPI_Damagable.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/E_DamageType.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/E_DamageResponses.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/S_DamageInfo.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/BP_Player.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/Player/BP_Player.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/BPAC_DamageSystem.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/Enemy/BP_Enemy.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7J/4KGQL5PKD9B5MXYN0XZKI5.uasset",
+				"C:/UTKARSH/Game Dev/Unreal Projects/DamageSystem/Content/DamageSystem/Widgets/WBP_HealthBar.uasset"
+			]
+		}
+	]
+}
